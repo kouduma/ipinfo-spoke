@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="hostname" label="hostname" language="en" table="var__m_sys_hub_step_ext_output_955479a7db9000109d5f8a1848961989">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hostname</element>
+            <help/>
+            <hint/>
+            <label>hostname</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_955479a7db9000109d5f8a1848961989</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 04:12:59</sys_created_on>
+            <sys_id>6a59caebdbd000109d5f8a184896192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>hostname</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_396630_ipinfo_sp">6a1ea9a7db5000109d5f8a18489619c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">6a1ea9a7db5000109d5f8a18489619c1</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_955479a7db9000109d5f8a1848961989_hostname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 04:12:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="region" label="Region" language="en" table="var__m_sys_hub_action_output_8a59a6abdb5400109d5f8a18489619c9">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <help/>
+            <hint/>
+            <label>Region</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_8a59a6abdb5400109d5f8a18489619c9</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-11 06:32:48</sys_created_on>
+            <sys_id>ee59e6abdb5400109d5f8a1848961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Region</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_396630_ipinfo_sp">6a1ea9a7db5000109d5f8a18489619c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">6a1ea9a7db5000109d5f8a18489619c1</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_8a59a6abdb5400109d5f8a18489619c9_region_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-11 06:32:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
